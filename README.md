@@ -1,4 +1,4 @@
-REALTIME WHITEBOARD SHARING APP | GitHub Link
+REALTIME WHITEBOARD SHARING APP
   o A Real-time whiteboard sharing web application implemented using ReactJS, Node.js, and Express.js.
   o The host will create a room and multiple users can join the room using the room id.
   o Draw and share real-time whiteboard drawings.
